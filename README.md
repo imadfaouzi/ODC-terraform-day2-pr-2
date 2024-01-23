@@ -1,5 +1,7 @@
 # Static Website Hosting on AWS S3 using Terraform
 
+![Alt Text](screen-shot.png)
+
 This Terraform script sets up a simple and cost-effective solution for hosting a static website on AWS S3. By following these instructions, you can quickly deploy and manage your static website infrastructure.
 
 ## Prerequisites
